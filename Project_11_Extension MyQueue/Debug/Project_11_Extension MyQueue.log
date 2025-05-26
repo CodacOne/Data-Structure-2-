@@ -1,0 +1,9 @@
+﻿  Extension MyQueue.cpp
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_11_Extension MyQueue\Extension MyQueue.cpp(41,10): warning C4129:  'I': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_11_Extension MyQueue\Extension MyQueue.cpp(45,10): warning C4129:  'Q': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_11_Extension MyQueue\Extension MyQueue.cpp(51,10): warning C4129:  'Q': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_11_Extension MyQueue\Extension MyQueue.cpp(57,10): warning C4129:  'Q': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_11_Extension MyQueue\Extension MyQueue.cpp(62,10): warning C4129:  'Q': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_11_Extension MyQueue\Extension MyQueue.cpp(68,10): warning C4129:  'Q': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_11_Extension MyQueue\Extension MyQueue.cpp(73,10): warning C4129:  'Q': unrecognized character escape sequence
+  Project_11_Extension MyQueue.vcxproj -> D:\Abu hadhoud\abu hadhoud\Course 13\Project_11_Extension MyQueue\Debug\Project_11_Extension MyQueue.exe

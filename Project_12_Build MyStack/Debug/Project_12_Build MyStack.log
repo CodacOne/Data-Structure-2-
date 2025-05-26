@@ -1,0 +1,9 @@
+﻿  Build MyStack.cpp
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_12_Build MyStack\Build MyStack.cpp(41,10): warning C4129:  'I': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_12_Build MyStack\Build MyStack.cpp(45,10): warning C4129:  'S': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_12_Build MyStack\Build MyStack.cpp(51,10): warning C4129:  'S': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_12_Build MyStack\Build MyStack.cpp(57,10): warning C4129:  'Q': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_12_Build MyStack\Build MyStack.cpp(62,10): warning C4129:  'S': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_12_Build MyStack\Build MyStack.cpp(68,10): warning C4129:  'S': unrecognized character escape sequence
+D:\Abu hadhoud\abu hadhoud\Course 13\Project_12_Build MyStack\Build MyStack.cpp(73,10): warning C4129:  'S': unrecognized character escape sequence
+  Project_12_Build MyStack.vcxproj -> D:\Abu hadhoud\abu hadhoud\Course 13\Project_12_Build MyStack\Debug\Project_12_Build MyStack.exe
